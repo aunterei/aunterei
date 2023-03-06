@@ -1,13 +1,13 @@
 <div id="header" align="center">
     <img src="https://github.com/aunterei/aunterei/blob/main/assets/logo-au.png" alt="Profile Logo" width="100"/>
     <div id="badges">
-        <a href="https://www.linkedin.com/in/antoine-untereiner/">
+        <a href="https://www.linkedin.com/in/antoine-untereiner/" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
-        <a href="https://codepen.io/aunterei">
+        <a href="https://codepen.io/aunterei" target="_blank">
             <img src="https://img.shields.io/badge/CodePen-black?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
         </a>
-        <a href="mailto:antoine.unt@gmail.com">
+        <a href="mailto:antoine.unt@gmail.com" target="_blank">
             <img src="https://img.shields.io/badge/MAIL-red?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen Badge"/>
         </a>
     </div>
